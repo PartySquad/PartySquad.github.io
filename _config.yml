@@ -1,9 +1,9 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: PartySquad
+description: Tips und Tricks rund um Parties und Cocktails
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: http://gott50.github.io
+baseurl: /partysquad
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 tag_dir: /tag
 category_dir: /category
 author_dir: /author
-author_title_prefix: 'Posted by '
+author_title_prefix: 'Erstellt von '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+tumblr:
+pinterest:
+instagram:
+twitter:
+facebook:
+youtube:
+vimeo:
+soundcloud:
 
 encoding: utf-8
 defaults:
