@@ -2,8 +2,8 @@ full_rebuild: true
 name: PartySquad
 description: Tips und Tricks rund um Parties und Cocktails
 destination: jekyllbuild
-url: http://gott50.github.io
-baseurl: /partysquad
+url: https://partysquad.github.io
+baseurl:
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
