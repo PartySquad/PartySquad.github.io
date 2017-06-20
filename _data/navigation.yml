@@ -1,8 +1,14 @@
 # main links
 main:
-   - title: "About"
-     url: /about/
-#   - title: "Archive"
+   - title: "Startseite"
+     url: /
+   - title: "Cocktails"
+     url: /cocktails/
+   - title: "Dekoration"
+     url: /dekoration/
+   - title: "Wissenswertes"
+     url: /wissenswertes/
+#   - title: "Cocktails"
 #     url: /year-archive/
 #   - title: "Collections"
 #     url: /collection-archive/
