@@ -237,3 +237,5 @@ defaults:
       comments: # true
       share: true
       related: true
+
+theme: minimal-mistakes-jekyll
