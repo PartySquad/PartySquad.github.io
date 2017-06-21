@@ -2,7 +2,7 @@
 title: "Post: Splash"
 layout: splash
 categories:
-  - Post Formats
+  - Dekoration
 tags:
   - Post Formats
   - readability

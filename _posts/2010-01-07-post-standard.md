@@ -1,7 +1,7 @@
 ---
 title: "Post: Standard"
 categories:
-  - Post Formats
+  - Cocktails
 tags:
   - Post Formats
   - readability
