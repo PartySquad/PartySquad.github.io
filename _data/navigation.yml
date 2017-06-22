@@ -4,10 +4,11 @@ main:
      url: /
    - title: "Cocktails"
      url: /categories/#cocktails
-   - title: "Dekoration"
-     url: /categories/#dekoration
-   - title: "Wissenswertes"
-     url: /categories/#wissenswertes
+#   - title: "Dekoration"
+#     url: /categories/#dekoration
+#   - title: "Wissenswertes"
+#     url: /categories/#wissenswertes
+
 #   - title: "Cocktails"
 #     url: /year-archive/
 #   - title: "Collections"
