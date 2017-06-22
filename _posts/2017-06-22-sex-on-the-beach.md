@@ -5,7 +5,7 @@ categories:
 tags:
   - Süß
   - Fruchtig
-  - exotisch
+  - Exotisch
 author: 
 ---
 
