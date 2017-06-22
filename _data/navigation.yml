@@ -3,11 +3,11 @@ main:
    - title: "Startseite"
      url: /
    - title: "Cocktails"
-     url: /cocktails/
+     url: /categories/#cocktails
    - title: "Dekoration"
-     url: /dekoration/
+     url: /categories/#dekoration
    - title: "Wissenswertes"
-     url: /wissenswertes/
+     url: /categories/#wissenswertes
 #   - title: "Cocktails"
 #     url: /year-archive/
 #   - title: "Collections"
