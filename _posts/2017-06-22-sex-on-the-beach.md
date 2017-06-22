@@ -10,10 +10,10 @@ author:
 ---
 
 
-6cl Wodka
-4cl Pfirsichlikör (am besten Likör der Marke Peachtree)
-9cl Cranberrysaft
-9cl Ananassaft
+- 6cl Wodka
+- 4cl Pfirsichlikör (am besten Likör der Marke Peachtree)
+- 9cl Cranberrysaft
+- 9cl Ananassaft
 
 
 Alle Zutaten in einen mit Eis befüllten Shaker geben und mindestens 15 Sekunden schütteln. 
