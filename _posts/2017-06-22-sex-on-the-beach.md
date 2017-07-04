@@ -29,3 +29,5 @@ Da Cranberrysaft außerhalb der USA nur schwer erhältlich war gibt es viele Zub
 
 ### Geschmack:
 Süß, fruchtig und exotisch
+
+{% include gallery.html path="assets/img/sex-on-the-beach" %}
