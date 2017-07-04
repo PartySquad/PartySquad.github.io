@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "de"
-title                    : PartySquad
+title                    : PartySquad.Germany
 title_separator          : "-"
-name                     : PartySquad Germany UG
+name                     : PartySquad.Germany
 description              : Tips und Tricks rund um Parties und Cocktails
 url                      : https://partysquad.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
