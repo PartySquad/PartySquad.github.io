@@ -1,0 +1,9 @@
+<div class="gallery">
+{% for image in site.static_files %}
+{% if image.path contains include.path %}
+<a href="{{ image.path }}">
+    <img src="{{ image.path }}" alt="{{ image.basename }}">
+</a>
+{% endif %}
+{% endfor %}
+</div>
