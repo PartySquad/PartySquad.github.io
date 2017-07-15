@@ -12,10 +12,10 @@ header:
 author: Tobias Ettenhuber
 ---
 
-4cl Wodka
-2cl Triple Sec
-2cl Limettensaft
-4cl Cranberrysaft
+- 4cl Wodka
+- 2cl Triple Sec
+- 2cl Limettensaft
+- 4cl Cranberrysaft
 
 Alle Zutaten in einen Shaker geben, gut schütteln und in ein gekühltes Martiniglas abseihen. 
 Zum Schluss mit einer Limettenscheibe garnieren.
