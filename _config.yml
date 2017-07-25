@@ -4,7 +4,7 @@ title                    : PartySquad.Germany
 title_separator          : "-"
 name                     : PartySquad.Germany
 description              : Tips und Tricks rund um Parties und Cocktails
-url                      : https://partysquad.github.io
+url                      : http://www.partysquads.net
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : partySquad/partysquad.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
