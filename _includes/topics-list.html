@@ -1,0 +1,10 @@
+<span>Themen</span>
+{% include group-by-array collection=site.posts field="tags" %}
+
+<ul class="author__urls social-icons">
+    {% for tag in group_names %}
+    <li>
+        <a href="/tags/#{{ tag | slugify }}" class="">{{ tag }}</a>
+    </li>
+    {% endfor %}
+</ul>
