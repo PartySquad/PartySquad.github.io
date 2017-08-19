@@ -31,4 +31,4 @@ Erfrischend, Gute Süß-Sauer Balance
 Die Caipirinha ist das Nationalgetränk Brasiliens.
 
 
-{% include gallery.html path="assets/img/white-russian" %}
+{% include gallery.html path="assets/img/caipirinha" %}
