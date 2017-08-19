@@ -25,4 +25,4 @@ Stark, Süßlich
 
 
 
-{% include gallery.html path="assets/img/black-russian" %}
+{% include gallery.html path="assets/img/black-white-russian" %}

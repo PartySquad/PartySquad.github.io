@@ -25,4 +25,4 @@ Ein Rocks-Glas mit Eis befüllen, die Zutaten hineingeben, umrühren und genieß
 Süß, Cremig
 
 
-{% include gallery.html path="assets/img/white-russian" %}
+{% include gallery.html path="assets/img/black-white-russian" %}
