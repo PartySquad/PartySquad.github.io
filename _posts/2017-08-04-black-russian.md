@@ -12,8 +12,6 @@ header:
 author: Tobias Ettenhuber
 ---
 
-## Zutaten
-
 - 5cl Wodka
 - 3cl Kaffeelikör
 
