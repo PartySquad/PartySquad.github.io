@@ -1,5 +1,6 @@
 ---
 title: Cosmopolitan
+excerpt: "Zutaten: 4cl Wodka, 2cl Triple Sec, 2cl Limettensaft, 4cl Cranberrysaft"
 categories:
   - Cocktails
 tags:
