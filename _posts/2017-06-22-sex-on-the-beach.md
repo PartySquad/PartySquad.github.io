@@ -1,5 +1,6 @@
 ---
 title: Sex on the Beach
+excerpt: "Zutaten: 6cl Wodka, 4cl Pfirsichlikör (am besten Likör der Marke Peachtree), 9cl Cranberrysaft, 9cl Ananassaft"
 categories:
   - Cocktails
 tags:
@@ -12,7 +13,6 @@ header:
     provider: youtube
 author: Tobias Ettenhuber
 ---
-
 
 - 6cl Wodka
 - 4cl Pfirsichlikör (am besten Likör der Marke Peachtree)
