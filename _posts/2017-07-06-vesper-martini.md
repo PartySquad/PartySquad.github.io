@@ -1,5 +1,6 @@
 ---
 title: Vesper Martini
+excerpt: "6cl Gordons Dry Gin, 2cl Wodka, 1cl Lillet"
 categories:
   - Cocktails
 tags:
