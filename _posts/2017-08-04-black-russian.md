@@ -1,5 +1,6 @@
 ---
 title: Black Russian
+excerpt: "Zutaten: 5cl Wodka, 3cl Kaffeelikör"
 categories:
   - Cocktails
 tags:
