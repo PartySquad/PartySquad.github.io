@@ -1,5 +1,6 @@
 ---
 title: Caipirinha
+excerpt: "Zutaten: 1 ganze Limette, 2 Barlöffel feinen weißen Zucker, 5cl Cachaca"
 categories:
   - Cocktails
 tags:
