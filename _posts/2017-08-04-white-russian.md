@@ -1,5 +1,6 @@
 ---
 title: White Russian
+excerpt: "Zutaten: 5cl Wodka, 3cl Kaffeelikör, 2cl Sahne"
 categories:
   - Cocktails
 tags:
