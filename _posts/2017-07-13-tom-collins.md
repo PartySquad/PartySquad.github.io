@@ -1,5 +1,6 @@
 ---
 title: Tom Collins
+excerpt: "Zutaten: 5cl Gin, 2cl Zitronensaft, 2cl Zuckersirup, Sodawasser zum Auffüllen"
 categories:
   - Cocktails
 tags:
