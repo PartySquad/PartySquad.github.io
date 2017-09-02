@@ -20,8 +20,7 @@
 {% if page.on_load %}
 <script>
     function onLoad() {
-        console.log("onLoad()");
-        checkCookie();
+        askToAcceptTerms();
     }
 </script>
 {% endif %}
@@ -29,7 +28,7 @@
 
 {% if page.on_load and site.scripts.term_acceptance_text %}
 <script>
-    function checkCookie() {
+    function askToAcceptTerms() {
         var message = "{{ site.scripts.term_acceptance_text }}";
         var user = getCookie("acceptedTerms");
         if (!user) {
