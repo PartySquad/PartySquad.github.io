@@ -237,5 +237,10 @@ defaults:
       comments: true
       share: true
       related: true
+      on_load: true
 
 theme: minimal-mistakes-jekyll
+
+# Custom Scripts
+scripts:
+  term_acceptance_text: "Bist du über 18 und akzeptierst die Terms?"
