@@ -1,0 +1,39 @@
+{% if page.on_load and site.scripts.term_acceptance_text %}
+<script>
+function askToAcceptTerms() {
+    var message = "{{ site.scripts.term_acceptance_text }}";
+    var user = getCookie("acceptedTerms");
+    if (!user) {
+        if (confirm(message)) {
+            setCookie("acceptedTerms", true, 30);
+        } else {
+            window.open('/terms', '_self');
+        }
+    }
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) === 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return undefined;
+}
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toGMTString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+</script>
+<noscript>By using this Site with disabled JavaScript, you agree to the <a href="/terms">Terms</a></noscript>
+{% endif %}
