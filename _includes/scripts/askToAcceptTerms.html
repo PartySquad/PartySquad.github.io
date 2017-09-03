@@ -1,4 +1,4 @@
-{% if page.on_load and site.scripts.term_acceptance_text %}
+{% if site.scripts.term_acceptance_text %}
 <script>
 function askToAcceptTerms() {
     var message = "{{ site.scripts.term_acceptance_text }}";
